@@ -56,3 +56,9 @@ for users_list_id in users_list_id:
 
 print("Все выполнено!")
 #time.sleep(60)
+
+
+#----------------------------------------------------
+# Author:      Милашка
+# Link:        https://github.com/0bezynka/vk_bot
+#----------------------------------------------------
