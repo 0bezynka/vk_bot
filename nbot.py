@@ -1,7 +1,5 @@
 import vk_api
 import time
-# Cannot add this user to friends as user not found
-# нужно сделать что бы удалённых пользователей игнорил в подписчиках
 vk=vk_api.VkApi(token="TOKKEN")
 
 # Подписчики
